@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JUHI NAGPURE , Web Developer💻🌐- in Process</h1>
+<h1 align="center">Hi 👋, I'm JUHI, Web Developer💻🌐- in Process</h1>
 <h3 align="center">A Girl trying to figure-out stuff!!</h3>
 <hr>
  🔗Currently ,I am a student pursuing my Bachelor's Degree(BCA) from University of Nagpur. 
