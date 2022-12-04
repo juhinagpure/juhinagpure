@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhinagpure&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+
+[![Juhi's github activity graph](https://activity-graph.herokuapp.com/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph)
+
