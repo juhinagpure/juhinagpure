@@ -34,9 +34,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhinagpure&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=juhinagpure&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhinagpure&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
 
