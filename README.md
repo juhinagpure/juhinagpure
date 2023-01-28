@@ -1,43 +1,53 @@
-<h1 align="center">Hi 👋, I'm JUHI, Web Developer💻🌐- in Process</h1>
-<h3 align="center">A Girl trying to figure-out stuff!!</h3>
-<hr>
- 🔗Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Nagpur. 
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-<br>
+name: Generate Snake
 
-## ☺️About Me
+# Controls when the action will run. This action runs every 6 hours.
 
-▪️💻At the moment, I am aiming to upgrade my technical skills and develop web development projects.
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
 
-▪️🙌Open Source Projects are something I'd like to work on.
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
 
-▪️✨Interested in exploring the possibilities of "web Development"                                                                                                                                 
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
 
-▪️😅fun fact: I think I am Funny XD ✨
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
 
-▪️📬To get in touch with me, please email me at juhinagpure143@gmail.com
+      # Generates the snake
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: KaranChandekar
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
 
-<hr>
+      # Push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
 
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/juhinagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juhinagpure" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juhinagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhinagpure" height="30" width="40" /></a>
-</p>
-
-## Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhinagpure&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhinagpure&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
-
-[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph)
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
