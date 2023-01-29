@@ -1,4 +1,4 @@
-#  Juhi Chandekar
+#  Juhi Nagpure
 
 **`FrontEnd Developer (Developer/Designer/Creator)`** 🖤❤💜
 
