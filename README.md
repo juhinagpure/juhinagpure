@@ -71,7 +71,7 @@
 #
     
 ### 📈 My Github Activity Graph
-[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph))
+[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph)
   
 #
     
