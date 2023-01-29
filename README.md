@@ -2,7 +2,7 @@
 
 **`FrontEnd Developer (Developer/Designer/Creator)`** 🖤❤💜
 
-I'm an indie front-end developer and designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the project with artistic touches. I post my projects content and learnings on my Linkedin profile "[JuhiNagpure](https://www.linkedin.com/in/juhi-nagpure-38108b21b/)" with more than 2k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
+ I am an expert on this web programming and developing world. Also, I have gathered vast knowledge about using coding, designing, markup languages and other things that are related to this sector. I am always updated with new string of coding and browser compatibility. I love learning and implementing according to time.I post my projects content and learnings on my Linkedin profile "[JuhiNagpure](https://www.linkedin.com/in/juhi-nagpure-38108b21b/)" with more than 2k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
 
 <p align="left">
 <a href="https://github.com/KaranChandekar/github-profile-views-counter">
