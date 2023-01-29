@@ -1,22 +1,94 @@
+# Juhi Nagpure
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juhiii_281) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juhi Nagpure) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JuhiNagpure) 
+**`FrontEnd Developer (Developer/Designer/Creator)`** 🖤❤💜
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=JUHI NAGPURE&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JUHI NAGPURE&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUHI NAGPURE&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ I am an expert on this web programming and developing world. Also, I have gathered vast knowledge about using coding, designing, markup languages and other things that are related to this sector. I am always updated with new string of coding and browser compatibility. I love learning and implementing according to time.I post my projects content and learnings on my Linkedin profile "[JuhiNagpure](https://www.linkedin.com/in/juhi-nagpure-38108b21b/)" with more than 2k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=JUHI NAGPURE&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="left">
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://github.com/juhinagpure?tab=followers"></a>
+</p>
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+#
+
+<a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
+### 🚀 More about me
+
+- 🔭 I’m always working on **improving my skills**
+- 🌱 I’m currently learning **JavaScript**
+- 👨‍💻 Personal portfolio: **<a href="https://juhinagpure.netlify.app" target="_blank">Portfolio</a>**
+- 💬 Ask me about **Web, FrontEnd**
+- 📫 How to reach me: **juhinagpure143@gmail.com**
+- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JUHI NAGPURE&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🎧 Spotify Playing
+
+[![Spotify]()](https://open.spotify.com/user/31zn6nocpyjdftmzqxeet63ya4ju)
+
+#
+
+### 🔗 Connect with me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/juhi-nagpure-38108b21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/JuhiNagpure"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:juhinagpure143@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/juhiii_281/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+#
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="ExpressJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+
+#
+
+
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+#
+    
+### 📈 My Github Activity Graph
+[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph))
+  
+#
+    
+```javascript
+if (isAwesome) {
+  // thanks in advance :p
+  starThisRepository();
+}
+```
+
+Leave a ⭐ from [here](https://github.com/juhinagpure) if you like it 😁
+   
+```zsh
+>  Something About me 👇
+```
+#
+<details>
+ <summary>👩‍💻About Me</h3></summary>
+   I am a specialist on web developing ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease. I am skillful at programming and coding languages and other skills.I am an expert on the ground of web development and can do many things related to the job. I am quite adept in coding and markup languages and in creating applications using client server model including.Thank you for the visit to my profile.
+   
