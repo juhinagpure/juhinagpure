@@ -83,7 +83,7 @@
 
 <br/>  
 
-  
+[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph)  
 
 <br/>  
 
