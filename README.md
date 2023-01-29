@@ -90,5 +90,5 @@ Leave a ⭐ from [here](https://github.com/juhinagpure) if you like it 😁
 #
 <details>
  <summary>👩‍💻About Me</h3></summary>
-   I am a specialist on web developing ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease. I am skillful at programming and coding languages and other skills.I am an expert on the ground of web development and can do many things related to the job. I am quite adept in coding and markup languages and in creating applications using client server model including.Thank you for the visit to my profile.
+   I am a specialist on web developing ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease. I am skillful at programming and coding languages and other skills.I am an expert on the ground of web development and can do many things related to the job. I am quite adept in coding and markup languages and in creating applications using client server model including.Thank you for the visiting to my profile.
    
