@@ -1,43 +1,96 @@
-<h1 align="center">Hi 👋, I'm JUHI, Web Developer💻🌐- in Process</h1>
-<h3 align="center">A Girl trying to figure-out stuff!!</h3>
-<hr>
- 🔗Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Nagpur. 
+#  Juhi Chandekar
 
-<br>
+**`FrontEnd Developer (Developer/Designer/Creator)`** 🖤❤💜
 
-## ☺️About Me
+I'm an indie front-end developer and designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the project with artistic touches. I post my projects content and learnings on my Linkedin profile "[JuhiNagpure](https://www.linkedin.com/in/juhi-nagpure-38108b21b/)" with more than 2k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
 
-▪️💻At the moment, I am aiming to upgrade my technical skills and develop web development projects.
-
-▪️🙌Open Source Projects are something I'd like to work on.
-
-▪️✨Interested in exploring the possibilities of "web Development"                                                                                                                                 
-
-▪️😅fun fact: I think I am Funny XD ✨
-
-▪️📬To get in touch with me, please email me at juhinagpure143@gmail.com
-
-
-<hr>
-
-## Connect with me:
 <p align="left">
-<a href="https://twitter.com/juhinagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juhinagpure" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juhinagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhinagpure" height="30" width="40" /></a>
+<a href="https://github.com/KaranChandekar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
+</a>
+<a href="https://github.com/juhinagpure?tab=followers"></a>
 </p>
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40"/> </a>
-</p>
+#
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhinagpure&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+### 🚀 More about me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhinagpure&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+- 🔭 I’m always working on **improving my skills**
+- 🌱 I’m currently learning **JavaScript**
+- 👨‍💻 Personal portfolio: **<a href="https://juhinagpure.netlify.app" target="_blank">Portfolio</a>**
+- 💬 Ask me about **Web, FrontEnd**
+- 📫 How to reach me: **juhinagpure143@gmail.com**
+- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
 
-[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph)
+---
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31zn6nocpyjdftmzqxeet63ya4ju)
+
+#
+
+### 🔗 Connect with me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/juhi-nagpure-38108b21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/JuhiNagpure"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:juhinagpure143@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/juhiii_281/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+#
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="ExpressJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+
+#
+
+
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+#
+    
+### 📈 My Github Activity Graph
+[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph))
+  
+#
+    
+```javascript
+if (isAwesome) {
+  // thanks in advance :p
+  starThisRepository();
+}
+```
+
+Leave a ⭐ from [here](https://github.com/juhinagpure) if you like it 😁
+   
+```zsh
+>  Read my Coding Journey 👇
+```
+#
+<details>
+ <summary>👩‍💻Juhi's Coding Journey</h3></summary>
+   I am a specialist on web developing ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease. I am skillful at programming and coding languages and other skills.I am an expert on the ground of web development and can do many things related to the job. I am quite adept in coding and markup languages and in creating applications using client server model including.Thank you for the visit to my profile.
+   
