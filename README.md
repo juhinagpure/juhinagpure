@@ -11,7 +11,7 @@
 
 #
 
-<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### 🚀 More about me
 
@@ -26,7 +26,7 @@
 
 ### 🎧 Spotify Playing
 
-[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31zn6nocpyjdftmzqxeet63ya4ju)
+[![Spotify]()](https://open.spotify.com/user/31zn6nocpyjdftmzqxeet63ya4ju)
 
 #
 
@@ -85,10 +85,10 @@ if (isAwesome) {
 Leave a ⭐ from [here](https://github.com/juhinagpure) if you like it 😁
    
 ```zsh
->  Read my Coding Journey 👇
+>  Something About me 👇
 ```
 #
 <details>
- <summary>👩‍💻Juhi's Coding Journey</h3></summary>
+ <summary>👩‍💻About Me</h3></summary>
    I am a specialist on web developing ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease. I am skillful at programming and coding languages and other skills.I am an expert on the ground of web development and can do many things related to the job. I am quite adept in coding and markup languages and in creating applications using client server model including.Thank you for the visit to my profile.
    
