@@ -6,7 +6,7 @@
 
  I am an expert on this web programming and developing world. Also, I have gathered vast knowledge about using coding, designing, markup languages and other things that are related to this sector. I am always updated with new string of coding and browser compatibility. I love learning and implementing according to time.I post my projects content and learnings on my Linkedin profile "[JuhiNagpure](https://www.linkedin.com/in/juhi-nagpure-38108b21b/)" with more than 2k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯  
 <div align="center">
-<img src="http://www.openlearning.com/" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif?cid=ecf05e47d5w7aa1b03fha1jxftw71z0mg83j9iguw1pt6cwd&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
