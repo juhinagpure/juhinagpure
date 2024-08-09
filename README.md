@@ -1,7 +1,7 @@
 ## Hey👋
 ![333271983-64e39555-2b44-48be-a6b2-1a2a13c285be](https://github.com/user-attachments/assets/d555cdd2-ae10-472f-948e-451abb7f0959)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Frontend-Developer;📚Study-Enthusiast;📝Knowledge-Sharer;🌍Explorer👋Nice+to+meet+you...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Frontend-Developer;📚Study-Enthusiast;📝Knowledge-Sharer;🌍Explorer;👋Nice+to+meet+you...)
 
 💡 &nbsp; Passionate about Frontend Development & Crafting Seamless User Experiences.
 
