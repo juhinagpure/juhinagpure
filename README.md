@@ -11,8 +11,8 @@
 
 ✉️ &nbsp; Dedicated to Contributing to the Community through Open Source Projects.
 
-📄 &nbsp;My [Resume]()
-) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;My ![Resume](https://github.com/user-attachments/assets/fb0d93c3-59c5-46b7-858c-986088ed893a)
+for more details about me. I'm open to feedback and suggestions!
 
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
