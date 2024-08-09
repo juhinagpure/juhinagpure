@@ -11,7 +11,7 @@
 
 ✉️ &nbsp; Dedicated to Contributing to the Community through Open Source Projects.
 
-📄 &nbsp;My [Resume]([Juhi Nagpure - Resume (1).pdf](https://github.com/user-attachments/files/16556215/Juhi.Nagpure.-.Resume.1.pdf)
+📄 &nbsp;My [Resume]()
 ) for more details about me. I'm open to feedback and suggestions!
 
 
