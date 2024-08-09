@@ -2,9 +2,7 @@
 ![333271983-64e39555-2b44-48be-a6b2-1a2a13c285be](https://github.com/user-attachments/assets/d555cdd2-ae10-472f-948e-451abb7f0959)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Frontend-Developer;📚Study-Enthusiast;📝Knowledge-Sharer;🌍Explorer👋Nice+to+meet+you...)
-
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
 <div>
   <h1 align="center"> Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"> 
   </h1>
