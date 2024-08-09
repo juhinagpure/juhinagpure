@@ -7,7 +7,7 @@
 
 🧠 &nbsp; Exploring the Latest JavaScript Frameworks and Enhancing Web Interactivity.
 
-🧑‍🏭 &nbsp; Proficient in Web Testing, including UI Testing for Cross-Browser Compatibility.
+👩‍🏭 &nbsp; Proficient in Web Testing, including UI Testing for Cross-Browser Compatibility.
 
 ✉️ &nbsp; Dedicated to Contributing to the Community through Open Source Projects.
 
