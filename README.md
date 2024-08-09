@@ -11,7 +11,8 @@
 
 ✉️ &nbsp; Dedicated to Contributing to the Community through Open Source Projects.
 
-📄 &nbsp;My [Resume](Juhi_Nagpure-CV.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;My [Resume]([Juhi Nagpure - Resume (1).pdf](https://github.com/user-attachments/files/16556215/Juhi.Nagpure.-.Resume.1.pdf)
+) for more details about me. I'm open to feedback and suggestions!
 
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
