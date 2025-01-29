@@ -22,7 +22,7 @@ Passionate about crafting beautiful and functional web experiences! I love learn
 #### 🌈 Frontend Magic
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,sass,bootstrap,figma,Canva" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,sass,bootstrap,figma,canva" alt="Tech Stack" />
 </div>
 
 #### 🚀 Other Cool Stuff
