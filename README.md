@@ -27,9 +27,11 @@ Passionate about crafting beautiful and functional web experiences! I love learn
 
 #### 🚀 Other Cool Stuff
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" alt="Other Tools" />
+<div class="flex space-x-2 items-center">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,sass,bootstrap,figma" alt="Tech Stack" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Canva_icon_2021.svg" alt="Canva" class="w-12 h-12" />
 </div>
+
 
 ---
 
