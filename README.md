@@ -13,7 +13,7 @@ Passionate about crafting beautiful and functional web experiences! I love learn
 - 🎨 Obsessed with **Tailwind CSS** ❤️
 - 🌎 Sharing my journey on [LinkedIn](https://www.linkedin.com/in/juhi-nagpure-38108b21b/) with **3K+ amazing connections**
 - 🏆 Striving to create **pixel-perfect** UI/UX
-- 📬 Reach me at **juhinagpure143@gmail.com**
+- 📬 Reach me at **juhinagpure56@gmail.com**
 
 ---
 
